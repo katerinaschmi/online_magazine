@@ -1,0 +1,26 @@
+/* Basic CSS reset */
+*,
+:after,
+:before {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    box-sizing: border-box;
+}
+
+html {
+    font-size: 100%;
+}
+
+/* You start your css below */
+
+.comingsoonheader {
+    color: #f4f4f4;
+    font-family: 'Abhaya Libre', serif;
+    text-transform: uppercase;
+    letter-spacing: 3px;
+    font-size: 10rem;
+    padding-top: 200px;
+    text-align: center;
+    margin-bottom: 315px;
+}
